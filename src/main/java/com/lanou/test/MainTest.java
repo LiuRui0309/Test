@@ -5,6 +5,10 @@ package com.lanou.test;
  */
 public class MainTest {
     public static void main(String[] args) {
+        System.out.println("加油");
+
+
+
         System.out.println("你好!!!");
     }
 }
